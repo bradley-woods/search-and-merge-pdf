@@ -1,2 +1,1 @@
-import re
-from PyPDF2 import PdfMerger, PdfReader
+pip install PyPDF2
